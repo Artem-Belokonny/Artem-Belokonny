@@ -20,3 +20,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artem-Belokonny&count_private=true&show_icons=true&theme=dark)](https://github.com/Artem-Belokonny/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Belokonny&theme=dark)](https://github.com/Artem-Belokonny/github-readme-stats)
