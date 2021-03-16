@@ -7,6 +7,6 @@
 
 - Мой стек:
 
-![JavaScript](C:\Users\Admin.MSI\Desktop\YandexPraktikum\Artem-Belokonny\images\javaScript.svg)
+![JavaScript](../images/javaScript.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artem-Belokonny&count_private=true&show_icons=true&theme=dark)](https://github.com/Artem-Belokonny/github-readme-stats)
